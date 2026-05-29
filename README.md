@@ -29,6 +29,11 @@ I mostly focus on backend, with most of my experience being in .NET and game dev
 
 ---
 
+<!-- STREAK-BOT:START -->
+<!-- STREAK-BOT:END -->
+
+---
+
 ### Contributions This Year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexirez/alexirez/output/github-snake-dark.svg" />
