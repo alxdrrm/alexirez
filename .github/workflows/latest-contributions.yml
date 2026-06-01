@@ -1,7 +1,8 @@
 name: Update Recent Activity
 on:
   schedule:
-    - cron: "30 11 * * *"
+    - cron: "53 18 * * *"
+    - cron: "7 3 * * *"
   workflow_dispatch:
 jobs:
   build:
