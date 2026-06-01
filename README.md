@@ -24,17 +24,15 @@ I mostly focus on backend, with most of my experience being in .NET and game dev
 ---
 
 ### 💡 Currently Learning
-- **TypeScript** — getting into web backend development with Node.js
-- **Go** — branching out into web services
+- **TypeScript**
+- **Node.js**
+- **Phaser**
 
 ---
 
-<!-- STREAK-BOT:START -->
-<!-- STREAK-BOT:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
----
-
-### Contributions This Year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexirez/alexirez/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexirez/alexirez/output/github-snake.svg" />
