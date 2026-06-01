@@ -1,4 +1,4 @@
-name: Update README
+name: Update Recent Activity
 on:
   schedule:
     - cron: "30 5 * * *"
@@ -16,6 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_MSG: "Update Recent Activity"
+          MAX_LINES: 6
+          COMMIT_NAME: ${{ github.actor }}
+          COMMIT_EMAIL: ${{ github.actor }}@users.noreply.github.com
