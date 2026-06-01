@@ -1,4 +1,8 @@
-### Hey, I'm Alexander. 👋
+<div align="center">
+
+# Welcome to my profile! 👋
+
+</div><br>
 
 I mostly focus on backend, with most of my experience being in .NET and game development (C#).<br><br>
 
@@ -29,6 +33,8 @@ I mostly focus on backend, with most of my experience being in .NET and game dev
 - **Phaser**
 
 ---
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#26](https://github.com/alexirez/excavaze.io/issues/26) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
