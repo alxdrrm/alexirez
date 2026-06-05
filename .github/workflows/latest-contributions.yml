@@ -43,6 +43,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "Updated last active project · $(date -u '+%Y-%m-%d')"
+            git pull --rebase
             git push
           fi
 
@@ -51,7 +52,11 @@ jobs:
         run: |
           git reset --hard
           git clean -fd
+          git pull --rebase
+          git commit --allow-empty -m "🤖 Keeping the streak alive · $(date -u '+%Y-%m-%d')"
+          git push
   build:
+    needs: auto-commit
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
     permissions:
@@ -59,6 +64,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      - name: Pull latest before updating
+        run: git pull --rebase
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
