@@ -1,6 +1,6 @@
 {
   "timezone": "America/Los_Angeles",
-  "streak_count": 5,
+  "streak_count": 6,
   "streaks": [
     {
       "day": 0,
@@ -37,6 +37,12 @@
       "timestamp": "2026-06-04 18:06:57 PST",
       "date": "2026-06-04",
       "description": "Day 5: 2026-06-04 18:06:57 PST"
+    },
+    {
+      "day": 6,
+      "timestamp": "2026-06-05 00:13:53 PST",
+      "date": "2026-06-05",
+      "description": "Day 6: 2026-06-05 00:13:53 PST"
     }
   ]
 }
