@@ -20,7 +20,7 @@ I mostly focus on backend, with most of my experience being in .NET. In my free 
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,github,docker,latex,blender,unity" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,github,docker,latex,figma,blender,unity" />
 </p>
 
 ---
