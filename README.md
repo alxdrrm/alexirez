@@ -35,12 +35,12 @@ I mostly focus on backend, with most of my experience being in .NET. In my free 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#56](https://github.com/alexirez/excavaze.io/issues/56) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
-2. ℹ️ Labeled issue [#56](https://github.com/alexirez/excavaze.io/issues/56) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
-3. ❗ Opened issue [#56](https://github.com/alexirez/excavaze.io/issues/56) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
-4. 💪 Opened PR [#54](https://github.com/alexirez/excavaze.io/pull/54) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
-5. 💪 Opened PR [#50](https://github.com/alexirez/excavaze.io/pull/50) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
-6. 💪 Opened PR [#49](https://github.com/alexirez/excavaze.io/pull/49) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
+1. 🎉 Merged PR [#57](https://github.com/alexirez/excavaze.io/pull/57) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
+2. 🔒 Closed issue [#44](https://github.com/alexirez/excavaze.io/issues/44) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
+3. 🔒 Closed issue [#6](https://github.com/alexirez/excavaze.io/issues/6) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
+4. 💪 Opened PR [#57](https://github.com/alexirez/excavaze.io/pull/57) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
+5. ℹ️ Labeled issue [#56](https://github.com/alexirez/excavaze.io/issues/56) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
+6. ℹ️ Labeled issue [#56](https://github.com/alexirez/excavaze.io/issues/56) in [alexirez/excavaze.io](https://github.com/alexirez/excavaze.io)
 <!--END_SECTION:activity-->
 
 <picture>
